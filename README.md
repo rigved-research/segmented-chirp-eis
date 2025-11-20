@@ -37,11 +37,8 @@ https://drive.google.com/drive/folders/1ZpwoNF9GtOkIqTjLgYLsY8qNHglLrPtC?usp=sha
 The GitHub repository includes:
 
 - MATLAB scripts for generating Nyquist, Bode, and error plots  
-- Python scripts for ECM fitting  
-- Chirp interpolation utilities  
-- Nyquist marker utilities  
-- Folder-level `README.md` files with detailed instructions  
-- Example code for loading data and reproducing figures  
+- Python scripts for ECM fitting   
+- Folder-level `README.md` files with detailed instructions   
 
 No datafiles are included here due to size constraints.
 
@@ -63,7 +60,8 @@ No datafiles are included here due to size constraints.
 
 ## 📝 Notes
 
-- All folder-level `README.md` files contain **detailed reproduction instructions** for the plots corresponding to their figure numbers.  
+- All folder-level `README.md` files contain **detailed reproduction instructions** for the plots corresponding to their figure numbers.
+- Make sure to download required python packages before running ECM fitting scripts 
 - Data files must be downloaded separately and placed in the correct folders before running scripts.
 
 ---
