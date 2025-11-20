@@ -1,6 +1,6 @@
 # Segmented-Chirp-EIS: Scripts and Instructions
 
-This repository contains all the **MATLAB and Python scripts**, helper functions, and folder-level documentation required to reproduce the results presented in the manuscript:
+This repository contains all the **MATLAB and Python scripts**, helper functions, and folder-level documentation required to reproduce the key figures presented in the manuscript:
 
 **“Accelerated and Broadband Electrochemical Impedance Spectroscopy of Lithium-ion Batteries using Segmented Chirp Signals.”**
 
