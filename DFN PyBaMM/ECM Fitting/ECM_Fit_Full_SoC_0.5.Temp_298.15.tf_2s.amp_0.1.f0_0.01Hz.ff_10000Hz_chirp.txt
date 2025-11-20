@@ -1,0 +1,24 @@
+# Fitted EIS circuit parameters and fit-quality metrics
+# Source            : chirp
+# Circuit           : R0-p(CPE1,R1)-p(CPE2,R2)-p(C1,R3)
+# Fitting Time      : 0.2863 s
+# Generated         : 2025-11-20T12:57:21
+# Units: R [Ohm], C [F], CPE Q [Ohm^-1 s^a], a [-]
+
+[Parameters]
+    R0 = 0.00128765477042
+    Q1 = 0.798636602227
+    a1 = 0.715801457549
+    R1 = 0.00375992889755
+    Q2 = 994.188814701
+    a2 = 0.912720903637
+    R2 = 0.0178566317143
+    C1 = 0.36538140669
+    R3 = 0.00839313011303
+
+[FitQuality]
+N_points          = 63
+p_parameters      = 9
+NRSS              = 5.205320e-05
+R2                = 0.999782
+RMSE_rel_pct      = 1.988

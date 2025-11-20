@@ -1,0 +1,24 @@
+# Fitted EIS circuit parameters and fit-quality metrics
+# Source            : conv
+# Circuit           : R0-p(CPE1,R1)-p(CPE2,R2)-p(C1,R3)
+# Fitting Time      : 0.3501 s
+# Generated         : 2025-11-20T17:29:57
+# Units: R [Ohm], C [F], CPE Q [Ohm^-1 s^a], a [-]
+
+[Parameters]
+    R0 = 0.00122894004272
+    Q1 = 0.600626310359
+    a1 = 0.742863221874
+    R1 = 0.00201599774861
+    Q2 = 938.40472149
+    a2 = 0.830183820595
+    R2 = 0.0145172765231
+    C1 = 0.287293213966
+    R3 = 0.00459155128567
+
+[FitQuality]
+N_points          = 63
+p_parameters      = 9
+NRSS              = 1.234911e-04
+R2                = 0.999352
+RMSE_rel_pct      = 1.923
