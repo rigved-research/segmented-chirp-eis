@@ -13,26 +13,26 @@ All corresponding **datafiles are provided separately via Google Drive** and can
 
 ### 1. Reaction Mechanisms (Figures 4–8)
 Datafiles for the three nonlinear electrochemical mechanisms:  
-👉 **Download:**  
+**Download:**  
 https://drive.google.com/drive/folders/1J-2GV99jn5CFh7NhR-Fz-34wdC53-82I?usp=sharing
 
 ---
 
 ### 2. DFN PyBaMM EIS (Figures 9–11)
 Segmented-chirp and conventional EIS data generated using the DFN model across SoC and temperature conditions:  
-👉 **Download:**  
+**Download:**  
 https://drive.google.com/drive/folders/1qP_ItZE9ZMHxyiDmv_j5SqhSs5BICrKY?usp=sharing
 
 ---
 
 ### 3. DFN PyBaMM – ECM Fitting (Figure 12)
 Datafiles used for ECM fitting (segmented-chirp vs conventional EIS):  
-👉 **Download:**  
+**Download:**  
 https://drive.google.com/drive/folders/1ZpwoNF9GtOkIqTjLgYLsY8qNHglLrPtC?usp=sharing
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 The GitHub repository includes:
 
@@ -44,7 +44,7 @@ No datafiles are included here due to size constraints.
 
 ---
 
-## 📘 How to Use This Repository
+## How to Use This Repository
 
 1. **Download the required datafiles** from the Google Drive links above.  
 2. **Clone or download this GitHub repository** to access the scripts.  
@@ -58,7 +58,7 @@ No datafiles are included here due to size constraints.
 
 ---
 
-## 📝 Notes
+## Notes
 
 - All folder-level `README.md` files contain **detailed reproduction instructions** for the plots corresponding to their figure numbers.
 - Make sure to download required python packages before running ECM fitting scripts 
